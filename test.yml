@@ -1,0 +1,6 @@
+- hosts: localhost
+  tasks:
+    - name: Test my module
+      my_own_module:
+        path: "/tmp/hello.txt"
+        content: "It works!"
