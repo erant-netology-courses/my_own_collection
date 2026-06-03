@@ -5,5 +5,9 @@
 
 ## Шаг 6
 <img width="1280" height="1360" alt="image" src="https://github.com/erant-netology-courses/my_own_collection/blob/main/6.JPG?raw=true" />
+
 ## Шаг 15
+<img width="1280" height="1360" alt="image" src="https://github.com/erant-netology-courses/my_own_collection/blob/main/15.JPG?raw=true" />
+
 ## Шаг 16
+<img width="1280" height="1360" alt="image" src="https://github.com/erant-netology-courses/my_own_collection/blob/main/16.JPG?raw=true" />
