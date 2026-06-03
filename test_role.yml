@@ -1,0 +1,3 @@
+- hosts: localhost
+  roles:
+    - role: my_own_namespace/yandex_cloud_elk/roles/my_module_role
